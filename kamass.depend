@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1710762461 source:c:\users\sch1561-it-059\desktop\kamass\main.cpp
+	<iostream>
+	"middle.h"
+
+1710761984 source:c:\users\sch1561-it-059\desktop\kl.cpp
+	<iostream>
+	"kamass/middle.h"
+
+1710762461 c:\users\sch1561-it-059\desktop\kamass\middle.h
+
